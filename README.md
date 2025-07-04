@@ -14,10 +14,7 @@ instagram-clone-sql/
 ├── schema/
 │   └── 01_create_instagram_clone_schema.sql
 ├── queries/
-│   ├── avg_likes_per_user.sql
-│   ├── top_followed_users.sql
-│   ├── posting_trends_by_day.sql
-│   └── …
+│   ├── ---
 ├── insights/
 │   └── marketing_insights.md
 ├── data/
